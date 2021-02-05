@@ -175,6 +175,8 @@ margin: 8px 0;
  display: flex;
  justify-content: space-around;
  align-items: stretch;
+ background: linear-gradient(#ff6b00bd, transparent);
+
   }
 
   .ordinateur-2 {
@@ -204,6 +206,66 @@ margin: 8px 0;
   font-weight: bold;
   }
 
+  .features {
+    width: 430px;
+    height: 56px;
+    margin: 64px 505px 64px 503px;
+    font-size: 40px;
+    font-weight: 900;
+    text-align: center;
+    font-weight: bold;
+    }
+
+  .titre-fiche-1  {
+    width: 640px;
+    height: 45px;
+    margin: 0 0 32px;
+    font-size: 32px;
+    font-weight: 900;
+    text-align: center;
+  }
+
+  .text-fiche-1 {
+    width: 640px;
+    height: 184px;
+    margin: 32px 14px 32px 32px;
+    font-size: 22px;
+    text-align: justify;
+  }
+
+  .bouton-fiche-1 {
+    width: 185px;
+    height: 45px;
+    font-size: 20px;
+  margin: 32px 455px 356px 60px;
+  padding: 7px 24px 7px 23px;
+  border-radius: 15px;
+  border: solid 4px;
+  }
+
+  .produit-1 {
+    width: 700px;
+    height: 500px;
+    margin: 17px 0 7px 693px;
+    object-fit: contain;
+    opacity: 0.9;
+    mix-blend-mode: darken;
+  }
+  
+  .image-produit {
+    width: 1440px;
+    height: 640px;
+    background-color: #ff6b00bd;
+    mix-blend-mode: darken;
+    background: linear-gradient(#ff6b00bd, transparent);
+  }
+  .produit {
+    
+    justify-content: space-around; 
+    align-items: stretch;
+    text-align: left;
+     }
+  
 /**
 * ----------
 * Components
