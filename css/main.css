@@ -28,6 +28,8 @@ h1 {
 
 h2 {
   font-size: 40px;
+  text-align: center;
+  font-weight: bold;
   /* Default font, size, and margins */
 }
 
@@ -63,6 +65,7 @@ a:hover {
   background-color: #fcce00bf;
   color: white;
   font-weight: 900;
+  line-height: 1;
 }
 
 .header-subtitle {
@@ -93,6 +96,113 @@ margin: 8px 0;
   background-color: #6236ffbd;
   margin: 8px 0;
 }
+
+.section-title {
+  margin: 64px;
+  font-size: 40px;
+  color: #231f20;
+  }
+
+.article1-title {
+  width: 640px;
+  height: 33px;
+  margin: 0 31px 34px 0;
+  font-size: 24px;
+  text-align: center;
+}
+
+.article1-text {
+  width: 640px;
+  height: 345px;
+  margin: 34px 31px 30px 48px;
+  font-size: 16px;
+  text-align: justify;
+}
+
+.block {
+ display: flex;
+ justify-content: space-around;
+ align-items: stretch;
+  }
+
+  .ordinateur-1 {
+    width: 487px;
+    height: 471px;
+    object-fit: contain;
+  }
+
+  .ordi-1 {
+    background-color: #fcce00bf;
+    mix-blend-mode: darken;
+    width: 720px;
+    height: 512px;
+    margin: 0 0 0 32px;
+    background: linear-gradient(#fcce00bf, transparent);
+  }
+
+  .bouton-1 {
+    width: 185px;
+    height: 48px;
+    margin: 30px 31px 22px 455px;
+    padding: 10px 36px;
+    color: #fcce00bf;
+    text-decoration: none;
+  border-radius: 15px;
+  border: solid 4px;
+  font-weight: bold;
+  }
+
+
+
+
+.article2-title {
+ width: 654px;
+  height: 66px;
+  margin: 0 0 32px 32px;
+  font-size: 24px;
+  text-align: center;
+}
+
+.article2-text {
+  width: 640px;
+  height: 184px;
+  margin: 32px 14px 32px 32px;
+  font-size: 16px;
+  text-align: justify;
+}
+
+.block2 {
+ display: flex;
+ justify-content: space-around;
+ align-items: stretch;
+  }
+
+  .ordinateur-2 {
+    width: 378px;
+  height: 486px;
+  object-fit: contain;
+  }
+
+  .ordi-2 {
+    background-color: #ff6b00bd;
+    mix-blend-mode: darken;
+    width: 720px;
+    height: 512px;
+    margin: 0 0 0 32px;
+    background: linear-gradient(#ff6b00bd, transparent);
+  }
+
+  .bouton-2 {
+    width: 185px;
+    height: 48px;
+    margin: 30px 31px 22px 455px;
+    padding: 10px 36px;
+    color: #ff6b00bd;
+    text-decoration: none;
+  border-radius: 15px;
+  border: solid 4px;
+  font-weight: bold;
+  }
 
 /**
 * ----------
