@@ -572,6 +572,26 @@ margin: 8px 0;
                   background-color: #231f20;
                   color: white;
                   }
+                .formulaire-1 {
+                  margin: 5px 64px 21px 214px;
+                  padding: 8px 206px 7px 8px;
+                  background-color: #231f20;
+                  color: white;
+                  
+                  }
+
+                  .formulaire-2 {
+                    margin: 5px 64px 21px 214px;
+                    padding: 8px 206px 7px 8px;
+                    background-color: #231f20;
+                    color: white;
+                    display: flex;
+                    justify-content: space-between;
+                    align-items: stretch;
+                    width: 378px;
+                    height: 486px;
+                    object-fit: contain;
+                    }
   
   
 /**
