@@ -386,6 +386,173 @@ margin: 8px 0;
         mix-blend-mode: darken;
         background: linear-gradient(#6236ff, transparent);
          }
+
+
+    .colonnes {
+      display: flex;
+      justify-content: space-between;
+      align-items: stretch;
+      flex-direction: column;
+      display: grid;
+      border: 3px solid black;
+      border-radius: 3px;
+      padding: 10px;
+      grid-template-columns: repeat(4,1fr);
+      grid-gap: 32px;
+       }
+
+    .cellule1 {
+      flex-basis: 340px;
+      flex-grow: 1;
+      flex-shrink: 1;
+      background-color: black;
+      color: white;
+      border-radius: 3px;
+      padding: 10px;
+      margin: 5px;
+      width: 320px;
+      height: 320px;
+       }
+
+    .cellule2 {
+      padding-left: 32px;
+      padding-right: 32px;
+      background-color: black;
+      color: white;
+      border-radius: 3px;
+      padding: 10px;
+      margin: 5px;
+           }
+
+       .cellule3 {
+        padding-left: 32px;
+        padding-right: 32px;
+        background-color: black;
+        color: white;
+        border-radius: 3px;
+        padding: 10px;
+        margin: 5px;
+         }
+
+         .cellule4 {
+          padding-left: 32px;
+          padding-right: 32px;
+          background-color: black;
+          color: white;
+          border-radius: 3px;
+       
+           }
+
+           .colonnes2 {
+            display: flex;
+            justify-content: space-between;
+            align-items: stretch;
+            flex-direction: column;
+            display: grid;
+            border: 3px solid black;
+            border-radius: 3px;
+            padding: 10px;
+            grid-template-columns: repeat(4,1fr);
+            grid-gap: 32px;
+             }
+      
+          .cellule5 {
+            flex-basis: 340px;
+            flex-grow: 1;
+            flex-shrink: 1;
+            background-color: black;
+            color: white;
+            border-radius: 3px;
+            padding: 10px;
+            margin: 5px;
+            width: 320px;
+            height: 320px;
+             }
+      
+          .cellule6 {
+            padding-left: 32px;
+            padding-right: 32px;
+            background-color: black;
+            color: white;
+            border-radius: 3px;
+            padding: 10px;
+            margin: 5px;
+                 }
+      
+             .cellule7 {
+              padding-left: 32px;
+              padding-right: 32px;
+              background-color: black;
+              color: white;
+              border-radius: 3px;
+              padding: 10px;
+              margin: 5px;
+               }
+      
+               .cellule8 {
+                padding-left: 32px;
+                padding-right: 32px;
+                background-color: black;
+                color: white;
+                border-radius: 3px;
+             
+                 }
+
+                 .colonnes3 {
+                  display: flex;
+                  justify-content: space-between;
+                  align-items: stretch;
+                  flex-direction: column;
+                  display: grid;
+                  border: 3px solid black;
+                  border-radius: 3px;
+                  padding: 10px;
+                  grid-template-columns: repeat(4,1fr);
+                  grid-gap: 32px;
+                   }
+            
+                .cellule9 {
+                  flex-basis: 340px;
+                  flex-grow: 1;
+                  flex-shrink: 1;
+                  background-color: black;
+                  color: white;
+                  border-radius: 3px;
+                  padding: 10px;
+                  margin: 5px;
+                  width: 320px;
+                  height: 320px;
+                   }
+            
+                .cellule10 {
+                  padding-left: 32px;
+                  padding-right: 32px;
+                  background-color: black;
+                  color: white;
+                  border-radius: 3px;
+                  padding: 10px;
+                  margin: 5px;
+                       }
+            
+                   .cellule11 {
+                    padding-left: 32px;
+                    padding-right: 32px;
+                    background-color: black;
+                    color: white;
+                    border-radius: 3px;
+                    padding: 10px;
+                    margin: 5px;
+                     }
+            
+                     .cellule12 {
+                      padding-left: 32px;
+                      padding-right: 32px;
+                      background-color: black;
+                      color: white;
+                      border-radius: 3px;
+                   
+                       }
+                       
   
   
 /**
