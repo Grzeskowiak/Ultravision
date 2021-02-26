@@ -394,7 +394,7 @@ margin: 8px 0;
       align-items: stretch;
       flex-direction: column;
       display: grid;
-      border: 3px solid black;
+      border: 3px solid #231f20;
       border-radius: 3px;
       padding: 10px;
       grid-template-columns: repeat(4,1fr);
@@ -405,7 +405,7 @@ margin: 8px 0;
       flex-basis: 340px;
       flex-grow: 1;
       flex-shrink: 1;
-      background-color: grey;
+      background-color: #231f20;
       color: white;
       border-radius: 3px;
       padding: 10px;
@@ -417,7 +417,7 @@ margin: 8px 0;
     .cellule2 {
       padding-left: 32px;
       padding-right: 32px;
-      background-color: grey;
+      background-color: #231f20;
       color: white;
       border-radius: 3px;
       padding: 10px;
@@ -427,7 +427,7 @@ margin: 8px 0;
        .cellule3 {
         padding-left: 32px;
         padding-right: 32px;
-        background-color: grey;
+        background-color: #231f20;
         color: white;
         border-radius: 3px;
         padding: 10px;
@@ -437,7 +437,7 @@ margin: 8px 0;
          .cellule4 {
           padding-left: 32px;
           padding-right: 32px;
-          background-color: grey;
+          background-color: #231f20;
           color: white;
           border-radius: 3px;
           padding: 10px;
@@ -451,7 +451,7 @@ margin: 8px 0;
             align-items: stretch;
             flex-direction: column;
             display: grid;
-            border: 3px solid black;
+            border: 3px solid #231f20;
             border-radius: 3px;
             padding: 10px;
             grid-template-columns: repeat(4,1fr);
@@ -462,7 +462,7 @@ margin: 8px 0;
             flex-basis: 340px;
             flex-grow: 1;
             flex-shrink: 1;
-            background-color: grey;
+            background-color: #231f20;
             color: white;
             border-radius: 3px;
             padding: 10px;
@@ -474,7 +474,7 @@ margin: 8px 0;
           .cellule6 {
             padding-left: 32px;
             padding-right: 32px;
-            background-color: grey;
+            background-color: #231f20;
             color: white;
             border-radius: 3px;
             padding: 10px;
@@ -484,7 +484,7 @@ margin: 8px 0;
              .cellule7 {
               padding-left: 32px;
               padding-right: 32px;
-              background-color: grey;
+              background-color: #231f20;
               color: white;
               border-radius: 3px;
               padding: 10px;
@@ -494,7 +494,7 @@ margin: 8px 0;
                .cellule8 {
                 padding-left: 32px;
                 padding-right: 32px;
-                background-color: grey;
+                background-color: #231f20;
                 color: white;
                 border-radius: 3px;
                 padding: 10px;
@@ -508,7 +508,7 @@ margin: 8px 0;
                   align-items: stretch;
                   flex-direction: column;
                   display: grid;
-                  border: 3px solid black;
+                  border: 3px solid #231f20;
                   border-radius: 3px;
                   padding: 10px;
                   grid-template-columns: repeat(4,1fr);
@@ -519,7 +519,7 @@ margin: 8px 0;
                   flex-basis: 340px;
                   flex-grow: 1;
                   flex-shrink: 1;
-                  background-color: grey;
+                  background-color: #231f20;
                   color: white;
                   border-radius: 3px;
                   padding: 10px;
@@ -531,7 +531,7 @@ margin: 8px 0;
                 .cellule10 {
                   padding-left: 32px;
                   padding-right: 32px;
-                  background-color: grey;
+                  background-color: #231f20;
                   color: white;
                   border-radius: 3px;
                   padding: 10px;
@@ -541,7 +541,7 @@ margin: 8px 0;
                    .cellule11 {
                     padding-left: 32px;
                     padding-right: 32px;
-                    background-color: grey;
+                    background-color: #231f20;
                     color: white;
                     border-radius: 3px;
                     padding: 10px;
@@ -551,19 +551,23 @@ margin: 8px 0;
                      .cellule12 {
                       padding-left: 32px;
                       padding-right: 32px;
-                      background-color: grey;
+                      background-color: #231f20;
                       color: white;
                       border-radius: 3px;
-                      padding: 10px;
-                      margin: 5px;
+                       padding: 10px;
+                        margin: 5px;
                    
                        }
                        
-                       .galerie {
-                        
-                        background-color: black;
-                     
-                         }
+                      .galerie {
+                      background-color: #231f20;
+                      }
+
+              .latest-releases{
+                background-color: #231f20;
+                color: white;
+            
+                }
   
   
 /**
